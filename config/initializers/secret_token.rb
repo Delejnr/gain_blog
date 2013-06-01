@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-GainBlog::Application.config.secret_token = 'ecba31a0d5e3d7fcd1180940f6d4d9da177c8ff51a3f1d895650177f43b1e08bd964d557bbcb827af1096f8a2f245650ca9fad3cbafc17c536f09949ff2de996'
+GainBlog::Application.config.secret_token = '10cffbfba41387bfbd8c48a30c1a3a1d1768cc8ac8ac9bac63f5680850d3edf7169134650eaf6d8ff82017ac239d368b79c03cea9e907c4c61d45c4db406ab55'
